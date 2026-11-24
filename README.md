@@ -32,4 +32,11 @@
   <img src="https://streak-stats.demolab.com?user=Felix-CM104&theme=radical&hide_border=true&locale=es" alt="Racha"/>
 </div>
 
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:felixcabreramartin@gmail.com"><img src="https://img.shields.io/badge/Email-felixcabreramartin%40gmail.com-e47bbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="tel:+34687956180"><img src="https://img.shields.io/badge/Tel%C3%A9fono-%2B34%20687%2095%2061%2080-7b5cff?style=for-the-badge" alt="Teléfono"/></a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cff,100:e47bbf&height=120&section=footer" width="100%" alt="Pie"/>
