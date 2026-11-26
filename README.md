@@ -93,18 +93,6 @@ Programo en Java, Kotlin y tecnologías web, y cada vez me fijo más en lo que h
   <img height="165" src="https://streak-stats.demolab.com?user=Felix-CM104&theme=radical&hide_border=true&locale=es&background=0a0b16&ring=ff4fa3&fire=ffd166&currStreakLabel=2fd8f0" alt="Racha"/>
 </div>
 
-<div align="center">
-
-### 🐍 La serpiente se come mis contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felix-CM104/Felix-CM104/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felix-CM104/Felix-CM104/output/github-snake.svg" />
-  <img alt="Serpiente comiéndose el gráfico de contribuciones" src="https://raw.githubusercontent.com/Felix-CM104/Felix-CM104/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
 ## 📫 ¿Formamos equipo?
 
 <p align="center">
